@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hableangla.github.io/sitemap.html.gz
+Sitemap: https://hableangla.github.io/app/sitemap.html.gz
+Sitemap: https://hableangla.github.io/assets/sitemap.html.gz
+Sitemap: https://hableangla.github.io/css/sitemap.html.gz
+Sitemap: https://hableangla.github.io/includes/sitemap.html.gz
+Sitemap: https://hableangla.github.io/item/sitemap.html.gz
+Sitemap: https://hableangla.github.io/src/sitemap.html.gz
